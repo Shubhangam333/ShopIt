@@ -1,5 +1,9 @@
 # ShopIT 
 
+#Preview
+
+![alt text](https://github.com/Shubhangam333/ShopIt/blob/master/portfolio-1.png)
+
 > Complete E-commerce site built with Node.js, React, Redux, Express, MongoDB
 
 
