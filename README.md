@@ -1,6 +1,6 @@
 # ShopIT 
 
-#Preview
+# Preview
 
 ![alt text](https://github.com/Shubhangam333/ShopIt/blob/master/portfolio-1.png)
 
